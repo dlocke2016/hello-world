@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+I'm a Computer Science student at North Hennepin Technical College.
